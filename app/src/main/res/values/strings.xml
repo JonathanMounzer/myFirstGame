@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mathemy</string>
+    <string name="help_info">Mathemy challenges your math skills!\n\nYou can choose between Easy, Medium and Hard. \n\nLevel unlocks if you score 10 or 20 correct answers in a row. \n\nAnswer the questions by typing in your number and then press Enter. Press the C button to clear an existing answer. Questions will shift between addition, subtraction, multiplication and division.\n\nHighscores are tracked and managed. Challenge your friends!\n\n\n\n\n\nminSdkVersion 15
+         targetSdkVersion 28</string>
+</resources>
